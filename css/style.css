@@ -76,6 +76,12 @@ table {
 
 /* Start Style */
 
+.container{
+    width: 800px;
+    height: auto;
+    margin: auto;
+}
+
 .container-nav{
     width: auto;
     height: auto;
